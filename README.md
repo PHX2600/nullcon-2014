@@ -9,10 +9,10 @@ Competition Website:
 http://ctf.nullcon.net/
 ```
 
-
 Team Login:
 ```
-TBD
+Team Name: Pi Backwards
+Team Password: ieHai4eil3ain9
 ```
 
 Team IRC:
